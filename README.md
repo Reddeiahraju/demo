@@ -1,17 +1,12 @@
 # demo
 practice GitHub account
 
-> let's see what happens?
+- point 1
+- point 2
 
-___
+____
 
--
+```
+print('Hello Git')
 
-- Hi
-
-- is this
-
-''''
-
-
-print('hello')
+```
